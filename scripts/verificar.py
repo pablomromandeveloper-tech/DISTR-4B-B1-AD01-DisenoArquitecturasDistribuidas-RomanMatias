@@ -12,7 +12,7 @@ from datetime import datetime, timezone
 
 ROOT = Path(__file__).resolve().parents[1]
 ARTIFACTS = ROOT / "artifacts"
-EVIDENCIAS = ROOT / "docs" / "evidencias"
+EVIDENCIAS = ARTIFACTS / "evidencias"
 procesos = {}
 logs = []
 resultados = []

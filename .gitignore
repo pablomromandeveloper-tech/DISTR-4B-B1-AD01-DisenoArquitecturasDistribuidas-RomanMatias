@@ -9,3 +9,8 @@
 **/appsettings.Local.json
 artifacts/
 **/__pycache__/
+docs/
+README.md
+*.pdf
+*.docx
+*.zip
